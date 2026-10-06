@@ -31,7 +31,7 @@ function Navbar() {
             }}
         >
             <Link to="/" style={linkStyle}>📊 Dashboard</Link>
-            <Link to="/transactions" style={linkStyle}>src/assets/Lab5.webp Transactions</Link>
+            <Link to="/transactions" style={linkStyle}>📊 Transactions</Link>
             <Link to="/books" style={linkStyle}>📖 Books</Link>
             <Link to="/users" style={linkStyle}>👤 Users</Link>
             
